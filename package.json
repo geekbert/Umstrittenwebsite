@@ -1,0 +1,18 @@
+{
+  "name": "blogproject",
+  "version": "1.0.0",
+  "description": "frank engel's blog project according to Greg Lim's book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Frank Engel",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "ejs": "^3.1.3"
+  }
+}
